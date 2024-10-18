@@ -1,6 +1,8 @@
-# ChatApp
+### ChatApp - Speech Recognition Application
+A simple Android application that integrates Google's Speech-to-Text API for converting voice input to text.
+The app is built with Kotlin and designed for future scalability.
+[View on GitHub](https://github.com/beryllsinn/chatapp)
 
-This is a simple Android chat application that integrates Google's Speech-to-Text API for voice recognition. The app is designed to recognize user speech input and convert it into text, allowing users to interact with the app through voice commands.
 
 > **Note:** Currently, no visual design elements have been implemented. The visual design for the app, including icons and main layout, will be added in future updates.
 
