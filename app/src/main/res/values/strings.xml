@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="start_button_text">음성 인식 시작</string>
+    <string name="result_text">결과가 여기에 표시됩니다</string>
+</resources>
